@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "ICU Monitor",
+  "image": "1.jpg",
+  "price": "2500",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Valve",
+  "image": "2.png",
+  "price": "3000",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Valve Gauge",
+  "image": "3.png",
+  "price": "2050",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Alern",
+  "image": "4.jpg",
+  "price": "5000",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Oxyzen Cylinder",
+  "image": "5.jpg",
+  "price": "1350",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Valve Monitor",
+  "image": "6.png",
+  "price": "1200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Icu Bed",
+  "image": "7.png",
+  "price": "12000",
+  "size": "large"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Oxyzen Pipe Joiner",
+  "image": "8.png",
+  "price": "500",
+  "size": "medium"
+}]
