@@ -1,5 +1,12 @@
-# MEDASTRU Application
+# DIVERSION 2k23 
 
+
+<br />
+<div align="center" >
+ <img src="https://user-images.githubusercontent.com/91617575/221621266-9b00cf72-1551-4c8a-8ecf-eaf984f0ca8a.png" alt="Logo" width="120" height="120">
+</div>
+
+# MEDASTRU Application
 # The targeted audiences are the hospitals not the normal people. We have a good databases where all the informations are stored. 
 #For future we want to make this an national as well as international e-eommerce website with a huge amount of databases
 
@@ -20,6 +27,16 @@
 # Admin dashboard
 ![Screenshot (41)](https://user-images.githubusercontent.com/91617575/221398296-2bd140b2-8db3-4537-82fb-f1238b068c1e.png)
 
+<br>
+# Contributors
+<div>
+<h1 align="center">
+ <b>Made with ❤️ by team ThinkTank
+<h1>
+<a href="https://github.com/Diptamoy-Mitra/MEDASTRU/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Diptamoy-Mitra/MEDASTRU" />
+</a>
+</div>
 
 ## Installation 
 After download or clone run `npm install` OR `yarn install` to install all the dependancies.
