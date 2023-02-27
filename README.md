@@ -8,7 +8,7 @@
 
 # MEDASTRU Application
 # The targeted audiences are the hospitals not the normal people. We have a good databases where all the informations are stored. 
-#For future we want to make this an national as well as international e-eommerce website with a huge amount of databases
+<p>In future we want to make this an national as well as international e-eommerce website with a huge amount of databases </p>
 
 # This is Made For Diversion 2k23
 ![WhatsApp Image 2023-02-26 at 13 13 13](https://user-images.githubusercontent.com/91617575/221398516-82d28e11-73ec-4767-94d8-b5d655df19fa.jpeg)
