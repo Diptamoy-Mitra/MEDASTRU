@@ -27,7 +27,7 @@
 # Admin dashboard
 ![Screenshot (41)](https://user-images.githubusercontent.com/91617575/221398296-2bd140b2-8db3-4537-82fb-f1238b068c1e.png)
 
-<br>
+
 # Contributors
 <div>
 <h1 align="center">
